@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/opencsv-5.8.jar",
+    "lib/mysql-connector-j-8.3.0.jar",
+    "lib/itextpdf-5.5.13.3.jar"
+  ]
+}
